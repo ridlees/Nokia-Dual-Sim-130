@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<VariantPackingList>
+    <Tracking>
+        <OriginalFileName>TA-1017_059Z1Z3_10.00.11.vpl</OriginalFileName>
+        <TimeStamp>2018-10-05T18:33:49+00:00</TimeStamp>
+        <Origin>Infinity Variant Making Service</Origin>
+    </Tracking>
+    <Variant>
+        <VariantIdentification>
+            <Description>TA-1017 IJ</Description>
+            <TypeDesignator>TA-1017</TypeDesignator>
+            <ProductCode>059Z1Z3</ProductCode>
+            <VariantGroup>SWPP</VariantGroup>
+        </VariantIdentification>
+        <SwVersion>10.00.11</SwVersion>
+        <VariantVersion>001</VariantVersion>
+        <FileList>
+            <File>
+                <Name>TA-1017_ROM_eMP_10.00.11</Name>
+                <FileType>Ascii</FileType>
+                <FileSubType>MT6250Rom</FileSubType>
+                <Signed>true</Signed>
+                <Optional>false</Optional>
+                <Crc>693c1ea8</Crc>
+            </File>
+            <File>
+                <Name>TA-1017_LANG_PACK_ROM_IJ_eMP_10.00.11_001</Name>
+                <FileType>Ascii</FileType>
+                <FileSubType>MT6250LangPackRom</FileSubType>
+                <Signed>true</Signed>
+                <Optional>false</Optional>
+                <Crc>09dd4de9</Crc>
+            </File>
+            <File>
+                <Name>TA-1017_CUSTPACK_ROM_IJ_eMP_10.00.11_001</Name>
+                <FileType>Ascii</FileType>
+                <FileSubType>MT6250CustPackRom</FileSubType>
+                <Signed>true</Signed>
+                <Optional>false</Optional>
+                <Crc>fa42dfa7</Crc>
+            </File>
+            <File>
+                <Name>TA-1017_JUMP_TABLE_IJ_eMP_10.00.11_001</Name>
+                <FileType>Ascii</FileType>
+                <FileSubType>MT6250JumpTable</FileSubType>
+                <Signed>true</Signed>
+                <Optional>false</Optional>
+                <Crc>4e4c59f2</Crc>
+            </File>
+            <File>
+                <Name>TA-1017_VIVA_eMP_10.00.11</Name>
+                <FileType>Ascii</FileType>
+                <FileSubType>MT6250Viva</FileSubType>
+                <Signed>true</Signed>
+                <Optional>false</Optional>
+                <Crc>268ce242</Crc>
+            </File>
+        </FileList>
+    </Variant>
+</VariantPackingList>
